@@ -26,5 +26,10 @@ public class MainClass extends BaseClass{
 		base.selectByVisibleText(searchHotel.getSelectAdultNos(), "2 - Two");
 		base.selectByVisibleText(searchHotel.getSelectChildNos(), "0 - None");
 		//base.btnClick(searchHotel.getBtnSubmit());
+		
+		System.out.println("Sample update");
+	
+	
 	}
+	
 }
